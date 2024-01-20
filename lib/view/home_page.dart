@@ -91,6 +91,7 @@ class _HomePageState extends State<HomePage> {
                                   BorderRadius.circular(size.height * 0.4),
                             ),
 
+
                             width: double.infinity,
                             child: Padding(
                               padding: EdgeInsets.all(size.height * 0.01),
